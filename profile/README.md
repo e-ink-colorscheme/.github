@@ -1,7 +1,11 @@
 # E-ink Colorscheme Organization
 
-An organization with a purpose of porting and maintaining the e-ink colorscheme
-to multiple applications.
+An organization with the purpose of porting and maintaining the e-ink
+color scheme across multiple applications.
+
+> [!WARNING]
+> This color scheme is not designed for use on e-ink displays, but rather to
+> imitate e-ink display colors on typical LED monitors.
 
 **Palette:**
 
